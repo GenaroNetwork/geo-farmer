@@ -1,0 +1,15 @@
+{
+  "name": "farmer-geo",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "flowfire",
+  "license": "ISC",
+  "dependencies": {
+    "@maxmind/geoip2-node": "^1.1.1",
+    "sqlite": "^3.0.3"
+  }
+}
